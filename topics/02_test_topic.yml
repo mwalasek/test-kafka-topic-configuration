@@ -1,0 +1,11 @@
+---
+02_test_topic:
+  name: 02_test_topic
+  scope: private
+  interface: false
+  spec: kafka-event
+
+  some:
+    other:
+      config.values: 4
+...

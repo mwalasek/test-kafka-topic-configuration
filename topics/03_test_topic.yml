@@ -1,0 +1,11 @@
+---
+03_test_topic:
+  name: 03_test_topic
+  scope: public
+  interface: false
+  spec: raw
+
+  some:
+    other:
+      config.values: 4
+...
